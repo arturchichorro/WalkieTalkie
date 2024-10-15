@@ -10,6 +10,7 @@ The app allows users to communicate via audio, simulating a traditional walkie-t
 
 Check out the demo video: 
 [Walkie-Talkie Demo](https://www.youtube.com/watch?v=341omJyjMc8)
+
 Also if you want, check out the [blog post](https://bolota.eu/posts/11_walkietalkie) I wrote about this project.
 
 ## Tech Stack
