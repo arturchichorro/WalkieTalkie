@@ -9,7 +9,7 @@ you to take the initiative and show us how you shine in your area of expertise.
 The app allows users to communicate via audio, simulating a traditional walkie-talkie experience. 
 
 Check out the demo video: 
-![Walkie-Talkie Demo](https://www.youtube.com/watch?v=341omJyjMc8)
+[Walkie-Talkie Demo](https://www.youtube.com/watch?v=341omJyjMc8)
 
 ## Tech Stack
 - **Frontend**: React Native and Expo for building a mobile-friendly interface.
